@@ -10,7 +10,7 @@ The goal was to transform raw data into actionable insights that can support dat
 
 ## Tools Used
 
-* Python (Pandas, NumPy, Matplotlib, Seaborn)
+* Python (Pandas)
 * MySQL
 * Power BI
 * Gamma
